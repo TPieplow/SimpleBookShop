@@ -2,27 +2,41 @@
 
 public class Program
 {
-    static List<Book> bookList = [];
 
     static void Main()
     {
+        List<Book> bookList = new List<Book>();
         while (true)
         {
 
-            Console.WriteLine("Välkommen till min bokhanterare");
-            string[] menuOptions = ["1. Add a book", "2. Find a book", "3. Show all books", "0. Exit application"];
+            Menu.MenuOptions();
 
             string choice = Console.ReadLine()!;
 
             switch (choice)
             {
                 case "1":
-                    AddBook();
+                    AddBook.AddBookToList(bookList);
                     break;
+
                 case "2":
-                    ViewSingleBook();
+                    ViewSingleBook.ViewSingleBookSearch(bookList);
                     break;
-            }   
+
+                case "3":
+                    ViewAllBooks.ViewAllBooksSearch(bookList);
+                    break;
+
+                case "0":
+                    ExitApplication.ExitApplicationOption();
+                    break;
+
+                default:
+                    Console.WriteLine("Not a valid option");
+                    break;
+                
+            }
+            Console.Clear();
         }
     }
 }

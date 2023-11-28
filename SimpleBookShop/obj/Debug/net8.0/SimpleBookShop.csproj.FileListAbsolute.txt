@@ -1,0 +1,15 @@
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\bin\Debug\net8.0\SimpleBookShop.exe
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\bin\Debug\net8.0\SimpleBookShop.deps.json
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\bin\Debug\net8.0\SimpleBookShop.runtimeconfig.json
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\bin\Debug\net8.0\SimpleBookShop.dll
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\bin\Debug\net8.0\SimpleBookShop.pdb
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\obj\Debug\net8.0\SimpleBookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\obj\Debug\net8.0\SimpleBookShop.AssemblyInfoInputs.cache
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\obj\Debug\net8.0\SimpleBookShop.AssemblyInfo.cs
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\obj\Debug\net8.0\SimpleBookShop.csproj.CoreCompileInputs.cache
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\obj\Debug\net8.0\SimpleBookShop.sourcelink.json
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\obj\Debug\net8.0\SimpleBookShop.dll
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\obj\Debug\net8.0\refint\SimpleBookShop.dll
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\obj\Debug\net8.0\SimpleBookShop.pdb
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\obj\Debug\net8.0\SimpleBookShop.genruntimeconfig.cache
+C:\EC\csharp\SimpleBookShop\SimpleBookShop\obj\Debug\net8.0\ref\SimpleBookShop.dll
