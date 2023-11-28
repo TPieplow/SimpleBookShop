@@ -5,7 +5,7 @@ public class Program
 
     static void Main()
     {
-        List<Book> bookList = new List<Book>();
+        List<Book> bookList = [];
         while (true)
         {
 
