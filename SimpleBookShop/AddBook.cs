@@ -23,10 +23,14 @@ namespace SimpleBookShop
                 Book newBook = new Book(title, author, isbn);
                 bookList.Add(newBook);
                 Console.WriteLine("Book added successfully.\n");
+                Console.WriteLine("Press any key to continue");
+                Console.ReadKey();
             }
             else
             {
                 Console.WriteLine("Invalid ISBN, no book added.\n");
+                Console.WriteLine("Press any key to continue");
+                Console.ReadKey();
             }
 
 

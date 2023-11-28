@@ -2,8 +2,7 @@
 
 public class Program
 {
-
-    static void Main()
+    public void BookShopMenu()
     {
         List<Book> bookList = [];
         while (true)
@@ -34,7 +33,7 @@ public class Program
                 default:
                     Console.WriteLine("Not a valid option");
                     break;
-                
+
             }
             Console.Clear();
         }
